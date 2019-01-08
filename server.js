@@ -22,7 +22,7 @@ var connection = mysql.createConnection({
   port: 3306,
   user: "root",
   password: "bullelkcd19",
-  database: "bugerdb"
+  database: "burgerdb"
 });
 
 connection.connect(function(err) {
